@@ -28,5 +28,5 @@ h5py==2.10.0
 'export_onnx'       表示将模型导出为onnx，需要pytorch1.7.1以上。
 3. 运行predict.py，如果选择'predict'则输入  
 ```python
-images/street.jpg
+images/DSE_6301.JPG
 ```
